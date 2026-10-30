@@ -62,7 +62,7 @@ I'm a full-stack engineer with 3 years of experience building web applications, 
 
 ## 🎓 Education
 
-Bachelor of Information Systems, Kuningan University
+Bachelor of Information Systems, Kuningan University (GPA: 3.22)
 
 ---
 
