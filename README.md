@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Rizki Ramadhan 👋
+# Hi there, I'm Muhammad Rizki Ramadhan
 
 **Full-stack Engineer** · Node.js · React/Next.js · TypeScript
 
